@@ -4,7 +4,7 @@ require("dotenv").config({
 
 module.exports = {
     siteMetadata: {
-        title: `Zenii`,
+        title: `Jeloue.io`,
         description: `A One-page Gatsby starter built with Tailwindcss and  Postcss.`,
         author: `The Bakerdev`,
     },
